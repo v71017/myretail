@@ -22,7 +22,7 @@ The application is developed using spring boot application framework to manage p
 * c. execute below command : 
     mvn package
 
-2. **Run the backend app using below command
+2. Run the backend app using below command
 
 java -jar target/myretail-0.0.1-SNAPSHOT.jar
 
