@@ -16,8 +16,8 @@ The application is developed using spring boot application framework to manage p
 * b. cd myretail/
 
 * Note : Export the maven
-export M2_HOME="/Users/pvidyapati/Downloads/apache-maven-3.6.3"
-export PATH=${PATH}:${M2_HOME}/bin
+** export M2_HOME="/Users/pvidyapati/Downloads/apache-maven-3.6.3"
+** export PATH=${PATH}:${M2_HOME}/bin
 
 * c. execute below command : 
     mvn package
