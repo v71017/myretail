@@ -59,3 +59,5 @@ curl --location --request PUT 'localhost:8080/products/123' \
 --header 'Content-Type: application/json' \
 --data-raw '{"id":123,"name":"product3","current_price" : {"value" : 22.00, "currency_code": "INR"}}'
 
+Swagger
+
