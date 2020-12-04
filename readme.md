@@ -1,6 +1,6 @@
-# myRetail RESTFul application
+# myRetail Spring Boot Restful application
 
-The application is developed on spring boot application framework to manage product information to an internal data store.
+The application is developed using spring boot application framework to manage product information to an internal data store.
 
 ## Pre-requesties
 
@@ -11,8 +11,16 @@ The application is developed on spring boot application framework to manage prod
 
 ## Step to install
 
-1. unzip the application
-unzip myretail.zip
+1. Clone the code to local folder
+a. git clone https://github.com/v71017/myretail.git
+b. cd myretail/
+
+Note : Export the maven
+export M2_HOME="/Users/pvidyapati/Downloads/apache-maven-3.6.3"
+export PATH=${PATH}:${M2_HOME}/bin
+
+c. execute below command : 
+    mvn package
 
 2. **Run the backend app using below command
 
